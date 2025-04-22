@@ -4,7 +4,7 @@
 - 🌱 Actualmente estudiando programación
 
 ### Vías de contanco
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fluis6a.github.io)
+![Website](https://img.shields.io/website?url=https://luis6a.github.io&up_color=blue)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/luis6a/pipc)
 
