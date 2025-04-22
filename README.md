@@ -4,10 +4,9 @@
 - 🌱 Actualmente estudiando programación
 
 ### Vías de contanco
-![Website](https://img.shields.io/website?url=https://luis6a.github.io&up_color=blue)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluis6a.github.io&label=luis6a&up_color=blue)](https://luis6a.github.io)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/luis6a/pipc)
-
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/luis6a/pipc?logo=github)](https://github.com/luis6a/pipc)
 
 <!--
 **luis6a/luis6a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
