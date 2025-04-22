@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 Actualmente trabajando en optimizar la creación de PIPC
+- 🌱 Actualmente estudiando programación
+
+### Vías de contanco
+![Website](https://img.shields.io/badge/luis6a.github.io-up-green?style=for-the-badge)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/luis6a/pipc)
+
+
 <!--
 **luis6a/luis6a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
