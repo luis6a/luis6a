@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hola 👋
 
 - 🔭 Actualmente trabajando en optimizar la creación de PIPC
 - 🌱 Actualmente estudiando programación
 
-### Vías de contanco
+### Vías de contacto
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fluis6a.github.io&label=luis6a&up_color=blue)](https://luis6a.github.io)
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/luis6a/pipc?logo=github)](https://github.com/luis6a/pipc)
