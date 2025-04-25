@@ -1,24 +1,42 @@
-## Hola 👋
+# 👋 ¡Hola! Soy Luis 6A
 
-- 🔭 Actualmente trabajando en optimizar la creación de PIPC
-- 🌱 Actualmente estudiando programación
+📚 Actualmente estudio **ingeniería de software**, soy **Ingeniero Industrial** y me encanta **automatizar y simplificar procesos** usando tecnología.
 
-### Vías de contacto
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluis6a.github.io&label=luis6a&up_color=blue)](https://luis6a.github.io)
+---
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/luis6a/pipc?logo=github)](https://github.com/luis6a/pipc)
+## 🔧 Tecnologías y herramientas
+- 🐍 **Python**
+- 🌱 **Git**
+- 💬 **Prompt Engineering**
+- 💻 **VS Code**, **GitHub**
 
-<!--
-**luis6a/luis6a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Proyecto actual
+Estoy trabajando en la **automatización de programas internos de protección civil** con [Vibe Coding](https://vibecoding.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Badges
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluis6a.github.io&label=Website&logo=github&up_color=blue)](https://luis6a.github.io)
+
+[![GitHub](https://img.shields.io/github/followers/luis6a?label=Seguir&style=social)](https://github.com/luis6a)
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis6a&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis6a&layout=compact&theme=github_dark)
+
+---
+
+## 🌐 Redes
+
+[![Twitter](https://img.shields.io/badge/Twitter-@Luis_6a-blue?logo=twitter&style=flat)](https://twitter.com/Luis_6a)  
+[![Instagram](https://img.shields.io/badge/Instagram-@Luis.6a-purple?logo=instagram&style=flat)](https://instagram.com/Luis.6a)
+
+---
+
+⭐ Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo algo nuevo!
+
