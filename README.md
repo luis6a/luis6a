@@ -33,7 +33,7 @@ Estoy trabajando en la **automatización de programas internos de protección ci
 
 ## 🌐 Redes
 
-[![X](https://img.shields.io/badge/@Luis6a-black?logo=x&logoColor=white&style=flat)](https://twitter.com/Luis6a)  
+[![X](https://img.shields.io/badge/@Luis_6a-black?logo=x&logoColor=white&style=flat)](https://twitter.com/Luis_6a)  
 [![Instagram](https://img.shields.io/badge/@Luis.6a-purple?logo=instagram&style=flat)](https://instagram.com/Luis.6a)
 
 ---
